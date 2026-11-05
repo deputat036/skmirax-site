@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skmirax.ru/sitemap.xml
